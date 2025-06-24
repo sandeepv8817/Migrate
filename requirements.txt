@@ -1,0 +1,11 @@
+streamlit
+pandas
+matplotlib
+networkx
+azure-identity
+azure-mgmt-resource
+azure-mgmt-network
+azure-mgmt-compute
+azure-mgmt-web
+azure-mgmt-sql
+azure-mgmt-storage
